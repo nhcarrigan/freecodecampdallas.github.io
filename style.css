@@ -1,7 +1,7 @@
 body {
     padding-top: 70px;
     font-family: 'Lato', sans-serif;
-    background: #006400;
+    background: #0a0a23;
 }
 
 .spacer {
@@ -12,7 +12,7 @@ body {
 /*Navigation Bar Color*/
 
 .navbar {
-    background-color: #006400;
+    background-color: #0a0a23;
 }
 
 
@@ -35,8 +35,9 @@ body {
     font-size: 20px;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
-    color: #006400;
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #0a0a23;
     background: #fff;
 }
 
@@ -52,14 +53,14 @@ body {
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
     background-color: #fff;
-    color: #006400;
+    color: #0a0a23;
 }
 
 
 /*Main Area*/
 
 .mainarea {
-    background: #006400;
+    background: #0a0a23;
     text-align: center;
     color: #fff;
     margin: 0;
